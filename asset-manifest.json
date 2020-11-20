@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/citas-react/static/css/main.49247e5f.chunk.css",
+    "main.js": "/citas-react/static/js/main.3bb6200d.chunk.js",
+    "main.js.map": "/citas-react/static/js/main.3bb6200d.chunk.js.map",
+    "runtime-main.js": "/citas-react/static/js/runtime-main.53256485.js",
+    "runtime-main.js.map": "/citas-react/static/js/runtime-main.53256485.js.map",
+    "static/js/2.4ec352d7.chunk.js": "/citas-react/static/js/2.4ec352d7.chunk.js",
+    "static/js/2.4ec352d7.chunk.js.map": "/citas-react/static/js/2.4ec352d7.chunk.js.map",
+    "static/js/3.89249635.chunk.js": "/citas-react/static/js/3.89249635.chunk.js",
+    "static/js/3.89249635.chunk.js.map": "/citas-react/static/js/3.89249635.chunk.js.map",
+    "index.html": "/citas-react/index.html",
+    "static/css/main.49247e5f.chunk.css.map": "/citas-react/static/css/main.49247e5f.chunk.css.map",
+    "static/js/2.4ec352d7.chunk.js.LICENSE.txt": "/citas-react/static/js/2.4ec352d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53256485.js",
+    "static/js/2.4ec352d7.chunk.js",
+    "static/css/main.49247e5f.chunk.css",
+    "static/js/main.3bb6200d.chunk.js"
+  ]
+}
